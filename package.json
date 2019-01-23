@@ -1,5 +1,6 @@
 {
   "name": "test-app",
+  "homepage": "https://controlade.github.io/react_test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
